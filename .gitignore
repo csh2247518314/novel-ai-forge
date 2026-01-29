@@ -42,18 +42,7 @@ next-env.d.ts
 # OS
 Thumbs.db
 
-# 部署配置
-Dockerfile
-docker-compose.yml
-docker-compose*.yml
-vercel.json
-ecosystem.config.js
+# PM2 运行时文件
 .pm2/
 .pm2/logs/
 .pm2/pids/
-
-# 脚本目录
-scripts/*.sh
-
-# 部署文档
-DEPLOYMENT.md
