@@ -79,7 +79,7 @@ Novel AI Forge 是一个功能强大的AI驱动小说创作平台，主要特性
 ### 1. 克隆项目
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/csh2247518314/novel-ai-forge.git
 cd novel-ai-forge
 ```
 
@@ -355,7 +355,7 @@ sudo usermod -aG docker $USER
 2. **部署应用**
 ```bash
 # 克隆项目
-git clone <repository-url>
+git clone https://github.com/csh2247518314/novel-ai-forge.git
 cd novel-ai-forge
 
 # 安装依赖
