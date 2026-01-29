@@ -18,8 +18,8 @@
 在项目根目录中执行以下命令：
 
 ```bash
-# 添加远程仓库 (替换 YOUR_USERNAME 为您的GitHub用户名)
-git remote add origin https://github.com/YOUR_USERNAME/novel-ai-forge.git
+# 添加远程仓库 (替换 csh2247518314 为您的GitHub用户名)
+git remote add origin https://github.com/csh2247518314/novel-ai-forge.git
 
 # 推送到GitHub
 git push -u origin main
@@ -28,7 +28,7 @@ git push -u origin main
 ### 步骤 3: 验证推送
 
 推送成功后，访问您的 GitHub 仓库：
-`https://github.com/YOUR_USERNAME/novel-ai-forge`
+`https://github.com/csh2247518314/novel-ai-forge`
 
 ## 📋 项目特色
 
@@ -124,10 +124,10 @@ git push
 
 ## 🔗 相关链接
 
-- **GitHub 仓库**: `https://github.com/YOUR_USERNAME/novel-ai-forge`
-- **项目主页**: `https://github.com/YOUR_USERNAME/novel-ai-forge/blob/main/README.md`
-- **Issues**: `https://github.com/YOUR_USERNAME/novel-ai-forge/issues`
-- **Discussions**: `https://github.com/YOUR_USERNAME/novel-ai-forge/discussions`
+- **GitHub 仓库**: `https://github.com/csh2247518314/novel-ai-forge`
+- **项目主页**: `https://github.com/csh2247518314/novel-ai-forge/blob/main/README.md`
+- **Issues**: `https://github.com/csh2247518314/novel-ai-forge/issues`
+- **Discussions**: `https://github.com/csh2247518314/novel-ai-forge/discussions`
 
 ## 🚀 下一步
 

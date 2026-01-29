@@ -2,6 +2,11 @@
   "name": "novel-ai-forge",
   "version": "1.0.0",
   "description": "集成多个AI模型的小说创作平台",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/csh2247518314/novel-ai-forge.git"
+  },
+  "homepage": "https://github.com/csh2247518314/novel-ai-forge",
   "private": true,
   "scripts": {
     "dev": "next dev",
