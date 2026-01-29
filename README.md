@@ -1,14 +1,3 @@
----
-AIGC:
-    ContentProducer: Minimax Agent AI
-    ContentPropagator: Minimax Agent AI
-    Label: AIGC
-    ProduceID: 978969ea2eda9f8e182e826246f9c2b6
-    PropagateID: 978969ea2eda9f8e182e826246f9c2b6
-    ReservedCode1: 304402201c8f46f2e824174e1b01ccfdd930edcac084dc90572461bcb9c666a90845633602204ae2bb876af4ce16b721cf9b3dc3d4e7129d491416fd39cc5e8246e10fab421c
-    ReservedCode2: 3045022100a77240f47f226b5eb8f78509eb167cb4833ff584e5e09ae542ead682e4c9755e02207d77fa1023523004c160098d72a8d4dbad46feb18a2999ac6e94faebec201415
----
-
 # Novel AI Forge - AI小说创作平台
 
 > 一个集成多种AI模型的小说创作平台，支持多线程写作和智能对话
